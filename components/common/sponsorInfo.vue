@@ -18,13 +18,13 @@
       >
         <div
           style="background-color: #F3F3F3; border-radius: 15px;border: 1.5px solid black;"
-          class="pa-5"
+          class="pa-2 px-4"
         >
           <ClientOnly>
             <v-tooltip location="bottom" :key="indexp">
               <template v-slot:activator="{ props }">
                 <a aria-label="sponsor name" :href="sponsor.link" target="_blank" v-bind="props">
-                  <v-img alt="sponsor-logo" :src="'/img/sponsors/' + sponsor.logo"></v-img>
+                  <v-img alt="sponsor-logo" aspect-ratio="1" height="40" :src="'/img/sponsors/' + sponsor.logo"></v-img>
                 </a>
               </template>
               <span>{{ sponsor.name }}</span>

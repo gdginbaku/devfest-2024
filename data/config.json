@@ -1,49 +1,49 @@
 {
-  "communityName": "GDG London",
+  "communityName": "GDG Baku",
   "communityLocation": {
-    "country": "United Kingdom",
-    "city": "London"
+    "country": "Azerbaijan",
+    "city": "Baku"
   },
   "communityDescription": "GDG is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation.",
   "communityLinks": {
-    "page": "https://gdg.community.dev/gdg-london/",
-    "website": "https://gdg.community.dev/gdg-london/",
-    "instagram": "https://gdg.community.dev/gdg-london/",
-    "linkedin": "https://www.linkedin.com/company/google-developers-london/",
-    "youtube": "https://gdg.community.dev/gdg-london/"
+    "page": "https://gdg.community.dev/gdg-baku/",
+    "website": "https://gdgbaku.az/",
+    "instagram": "https://www.instagram.com/gdg.baku/",
+    "linkedin": "https://www.linkedin.com/company/gdgbaku/",
+    "youtube": "https://www.youtube.com/@gdgbaku"
   },
   "eventInfo": {
-    "name": "DevFest London 2024",
-    "date": "Nov 16, 2024",
-    "time": "9 AM - 5 PM IST",
+    "name": "DevFest Baku 2024",
+    "date": "Oct 12, 2024",
+    "time": "11:30 AM - 6:30 PM",
     "venue": {
-      "address": "London",
-      "map_link": "https://maps.app.goo.gl/Cm6gXgpugNw74ow6A"
+      "address": "ADA University",
+      "map_link": "https://g.co/kgs/9GSgAHe"
     },
     "registeration": {
-      "link": "https://gdg.community.dev/",
-      "end_date": "2024-10-25"
+      "link": "https://gdg.community.dev/events/details/google-gdg-baku-presents-devfest-2024-baku/",
+      "end_date": "2024-10-09"
     },
     "description": {
       "short": "An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc.",
-      "long": "An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc.An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc."
+      "long": "Get ready for an exhilarating journey into the world of technology and innovation! GDG Baku is thrilled to present DevFest 2024, a one-of-a-kind gathering of tech enthusiasts, developers, and industry experts👨‍💻. With over 300 participants, 3 parallel sessions by 15 different speakers, DevFest Baku is the biggest developer event of Azerbaijan. This year's DevFest promises to be a celebration of cutting-edge technology, insightful discussions, and hands-on learning experiences. Join us as we explore the latest trends in web and mobile development, dive into the realms of artificial intelligence and machine learning, and master the intricacies of backend and frontend development. Participate in our interactive workshops featuring live coding sessions that will enhance your skills and broaden your horizons.🎉"
     },
     "stats": [
       {
         "name": "Speakers",
-        "value": "23+",
+        "value": "15+",
         "color": "#C3ECF6",
         "image": "img/common/blue.png"
       },
       {
         "name": "Participants",
-        "value": "200+",
+        "value": "300+",
         "color": "#F8D8D8",
         "image": "img/common/pink.png"
       },
       {
         "name": "Sessions",
-        "value": "10+",
+        "value": "3+",
         "color": "#CCF6C5",
         "image": "img/common/green.png"
       },
@@ -56,33 +56,33 @@
     ],
     "whatToExpect": [
       {
-        "title": "Technical content",
-        "description": "Events hosted by the Google Developer Groups community, featuring leading experts on Google technologies in areas."
+        "title": "Connect",
+        "description": "Meet local developers and technologists. All are welcome, including those with unique backgrounds and from various companies and industries."
       },
       {
-        "title": "Technical content",
-        "description": "Events hosted by the Google Developer Groups community, featuring leading experts on Google technologies in areas."
+        "title": "Learn",
+        "description": "Learn about a range of technical topics and gain new skills through hands-on workshops, training, events, talks, and meetups, online and in person."
       },
       {
-        "title": "Technical content",
-        "description": "Events hosted by the Google Developer Groups community, featuring leading experts on Google technologies in areas."
+        "title": "Grow",
+        "description": "Apply knowledge and connections to build great products and advance your skills, career, and network. Help your community learn too."
       }
     ],
     "pastDevFest": {
-      "summery": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente amet asperiores unde. Adipisci nobis ipsum fuga amet? Ut, iusto tenetur quisquam neque consectetur impedit magnam unde harum a mollitia possimus? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores laborum ut praesentium architecto a. Recusandae neque deserunt saepe mollitia quibusdam a nihil dicta in, totam hic molestias eaque. Dolores, nisi.",
-      "images": ["image-1.png", "image-2.png", "image-3.png"],
+      "summery": "DevFest Baku 2023 was Azerbaijan's largest developer event, uniting 300+ tech enthusiasts for sessions on ML/AI, web and mobile development, and more. With 13 speakers, interactive workshops, and networking opportunities, it was a celebration of innovation and hands-on learning in technology.",
+      "images": ["image-1.jpg", "image-2.jpg", "image-3.jpg"],
       "stats": [
         {
           "name": "Speakers",
-          "value": "23+"
+          "value": "12+"
         },
         {
           "name": "Participants",
-          "value": "200+"
+          "value": "300+"
         },
         {
           "name": "Sessions",
-          "value": "10+"
+          "value": "4+"
         },
         {
           "name": "Workshops",

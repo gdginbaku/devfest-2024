@@ -18,12 +18,12 @@
   },
   {
     "id": "102",
-    "name": "Full Name",
+    "name": "Sayed Ali Alkamel",
     "company": {
       "name": "Company",
       "designation": "Designation"
     },
-    "community_title": "Community Title",
+    "community_title": "GDE in Dart & Flutter",
     "image": "",
     "bio": "Bio Section",
     "social": {

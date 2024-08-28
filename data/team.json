@@ -1,74 +1,164 @@
 [
   {
     "id": "6001",
-    "name": "Vrijraj Singh",
+    "name": "Malik Mammadli",
     "company": {
-      "name": "OSS Labs Community",
-      "designation": "Developer"
+      "name": "Ericsson",
+      "designation": "Cloud Engineer"
     },
-    "community_title": "Google Developer Expert for Firebase",
-    "image": "vrijraj.jpg",
-    "bio": "Vrijraj is a dedicated CTO at agprop and a passionate advocate for community engagement. He actively contributes to the TechFerment community and holds the esteemed title of Google Developers Expert for Firebase and Web Technologies. With a wealth of experience, he has conducted over 300 talks and workshops, sharing his knowledge with various communities. Vrijraj's expertise lies in Web development, Firebase, Google Cloud Platform, and UI/UX Design. He possesses a strong drive for learning new technologies and leveraging them to build innovative solutions. Alongside his professional endeavors, Vrijraj takes pleasure in mentoring individuals and nurturing communities. During his leisure time, he indulges in his love for food and enjoys watching YouTube videos.",
+    "community_title": "GDG Community Lead",
+    "image": "malik.jpg",
+    "bio": "Cloud Engineer @Ericsson | GDG Community Lead",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
-    },
-    "type": "Core"
-  },
-  {
-    "id": "6002",
-    "name": "Shivam Singh",
-    "company": {
-      "name": "OSS Labs Community",
-      "designation": "Designer"
-    },
-    "community_title": "Designer",
-    "image": "shivam.png",
-    "bio": "A problem solver who uses his creative talents to tackle design-related challenges. With a keen eye for detail and an innate understanding of infographics, visual design, and UI/UX. I am able to transform complex information into visually compelling and user-friendly designs. Whether it includes working on a brand-new project or revamping an existing design.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/s-shivam/",
-      "twitter": "https://twitter.com/Shivamc504?t=Vc1j2jeHDLkS1-cSM1LSkg&s=09",
+      "linkedin": "https://www.linkedin.com/in/malikmammadli/",
+      "twitter": "",
       "github": "",
-      "web": "https://shivam.live/"
+      "web": ""
     },
     "type": "Core"
   },
   {
     "id": "6002",
-    "name": "Sandali Singh",
+    "name": "Nigar Asadova",
     "company": {
-      "name": "OSS Labs Community",
-      "designation": "Developer"
+      "name": "GDG Baku",
+      "designation": "Organizer"
     },
-    "community_title": "Developer",
-    "image": "sandali.jpg",
-    "bio": "I'm Sandali singh, a Software Developer, fueled by curiosity and driven by innovation,with a passion for full-stack development. Equipped with a solid foundation in computer science and hands-on experience in various programming languages and technologies, I am eager to embark on my journey as a full-stack developer. My academic background has honed my problem-solving skills and instilled in me a keen attention to detail, both of which are essential traits in the world of software development. With a strong desire to learn and grow in this dynamic field, I am excited to contribute my creativity and technical expertise to building innovative and user-friendly solutions.",
+    "community_title": "Organizer",
+    "image": "nigar.jpg",
+    "bio": "Proficient in HTML and CSS, I have an intermediate understanding of JavaScript and a basic knowledge of Blender. Passionate about both frontend development and 3D animation, I've created responsive web pages and am eager to learn more.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/sandali-singh/",
-      "twitter": "https://twitter.com/_Sandali_Singh_",
-      "github": "https://github.com/sandali-singh",
-      "web": "https://sandali.xyz/"
+      "linkedin": "https://www.linkedin.com/in/nigar-asadova-6442832a7/",
+      "twitter": "",
+      "github": "",
+      "web": ""
     },
-    "type": "Volunteer"
+    "type": "Core"
   },
   {
-    "id": "6002",
-    "name": "Full Name",
+    "id": "6003",
+    "name": "Lala Ibadullayeva",
     "company": {
-      "name": "OSS Labs Community",
-      "designation": "Developer"
+      "name": "GDG Baku",
+      "designation": "WTM Ambassador"
     },
-    "community_title": "Developer",
-    "image": "",
-    "bio": "Full Name and Bio",
+    "community_title": "WTM Ambassador",
+    "image": "lala.jpg",
+    "bio": "Certified TensorFlow Developer",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/",
-      "twitter": "https://twitter.com",
-      "github": "https://github.com",
-      "web": "https://example.com"
+      "linkedin": "https://www.linkedin.com/in/lala-ibadullayeva/",
+      "twitter": "",
+      "github": "",
+      "web": ""
     },
-    "type": "Volunteer"
+    "type": "Core"
+  },
+  {
+    "id": "6004",
+    "name": "Khadija Mammadova",
+    "company": {
+      "name": "GDG Baku",
+      "designation": "Co-Organizer"
+    },
+    "community_title": "Co-Organizer",
+    "image": "khadija.jpg",
+    "bio": "Hi, I am Khadija Mammadova. After completing highschool in Azerbaijan in 2018 I was entitled to study at İstanbul University in the department of Interpretation and Translation in Arabic. ",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/khadijamammadova/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6005",
+    "name": "Sayali Karimova",
+    "company": {
+      "name": "GDG Baku",
+      "designation": "Organizing Team"
+    },
+    "community_title": "Organizing Team",
+    "image": "sayali.jpg",
+    "bio": "Front End Developer",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/khadijamammadova/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6006",
+    "name": "Asim Safarli",
+    "company": {
+      "name": "GDG Baku",
+      "designation": "Organizing Team"
+    },
+    "community_title": "Organizing Team",
+    "image": "asim.jpg",
+    "bio": "I have 2 more years of experience in this field. While in your team, I will work with my teammates on the development of the project and further control of the project. I have been trained on how to control the project and the loopholes in the project. I don't just write code, I want to put my signature on the project",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/asimsafar/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6007",
+    "name": "Aykhan Khasmammadov",
+    "company": {
+      "name": "GDG Baku",
+      "designation": "Organizing Team"
+    },
+    "community_title": "Organizing Team",
+    "image": "aykhan.jpg",
+    "bio": "Computer vision and Drone software engineer",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ayxan-xasmemmedov-087455236/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6008",
+    "name": "Aytan Zaynalova",
+    "company": {
+      "name": "GDG Baku",
+      "designation": "Organizing Team"
+    },
+    "community_title": "Organizing Team",
+    "image": "aytan.jpg",
+    "bio": "I'm Aytan. I have a foundation in Computer Science and a background in Frontend Development. Currently, I'm making waves as an Digital Marketing Specialist at ATL Academy. 🎓 I earned my bachelor's degree in Computer Science from Baku State University, where I honed my technical skills and developed a passion for harnessing technology's potential to drive business growth. 🌟 My journey doesn't stop there. I'm currently pursuing a master's degree at Azerbaijan State University of Economics, where I'm delving deeper into the world of IT and business analysis. 🚀 What sets me apart is my unique blend of technical know-how and a strategic mindset. As an Digital Marketing Specialist, I specialize in identifying cutting-edge technology solutions that empower organizations to thrive in an ever-evolving digital landscape.",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id": "6009",
+    "name": "Leila Bakirli",
+    "company": {
+      "name": "GDG Baku",
+      "designation": "UI/UX Designer"
+    },
+    "community_title": "UI/UX Designer",
+    "image": "leila.jpg",
+    "bio": "UI/UX Designer",
+    "social": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    },
+    "type": "Core"
   }
 ]
