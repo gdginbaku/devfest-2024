@@ -20,6 +20,7 @@
           sm="3"
           v-for="(item, index) in speakersData"
           :key="index"
+          class="text-center"
         >
           <common-speaker-card :data="item" />
         </v-col>

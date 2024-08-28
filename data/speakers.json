@@ -20,119 +20,170 @@
     "id": "102",
     "name": "Sayed Ali Alkamel",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "BNP Paribas",
+      "designation": "MEA IT Analyst Developer"
     },
     "community_title": "GDE in Dart & Flutter",
-    "image": "",
-    "bio": "Bio Section",
+    "image": "sayed.png",
+    "bio": "Sayed Ali is a passionate mobile apps developer with over 6 years of experience building and publishing Mobile Apps. Sayed Ali has developed more than 10 apps in his career. One of these apps has more than 2.5 million downloads and an average rating of 4.6 out of 5 on the Play Store. Sayed Ali has spent the last two years working as a native android and IOS developer building ila bank app. Since 2018, Sayed Ali has been giving talks and workshops on Flutter and mentoring developers and entrepreneurs to utilize flutter benefits to achieve their business goals.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/sayed-ali-alkamel/",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
     "id": "103",
-    "name": "Full Name",
+    "name": "Mohammed Buallay",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "Tamkeen",
+      "designation": "Data Architect and Reporting Lead"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "Google Developer Expert for Machine Learning",
+    "image": "buallay.png",
+    "bio": "Google Developers Expert in machine learning and deep learning",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/mohammed-buallay-691b23152/",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
     "id": "104",
-    "name": "Full Name",
+    "name": "Merab Tato Kutalia",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "TNET",
+      "designation": "Engineering Manager"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "Google Developers Expert for Android",
+    "image": "merab.png",
+    "bio": "Google Developers Expert for Android. Software Engineer specializing in Android. Tato maintains an active podcast about work ethics and career growth and writes tech blogs. He is a GDG organizer and speaker at international conferences (DroidCon, DevFest, OWASP). Community builder. Does 1:1 mentoring. Alongside his technological pursuits, he is an amateur cyclist and runner.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/tatocaster/",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
     "id": "105",
-    "name": "Full Name",
+    "name": "Kanan Suleymanli",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "Synapline",
+      "designation": "AI Engineer"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "",
+    "image": "kanan.png",
+    "bio": "MSc Computational Engineering graduate. Very skillful in problem-solving, critical thinking, math, physics, data analysis, visualization, and supervised/unsupervised machine learning applications. My main research interest includes Computer Vision, Natural Language Processing, Scientific Machine Learning, and High-performance computing.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/kanan-suleyman/",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
     "id": "106",
-    "name": "Full Name",
+    "name": "Tural Suleymani",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "VOE Consulting",
+      "designation": "Chief Software Architect & Consultant"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "Microsoft MVP",
+    "image": "tural.png",
+    "bio": "With a remarkable history of spearheading operational activities in web and desktop development using the Microsoft stack, I bring expertise in technologies such as ASP.NET/ASP.NET CORE, MVC, Web API, WCF, WPF, Microservices, Domain-Driven Design(DDD) and Blazor. I excel in designing and implementing microservices utilizing C#, ASP.NET Core, Docker, and Azure technologies.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/tural-suleymani",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
     "id": "107",
-    "name": "Full Name",
+    "name": "Karim Karimov",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "PASHA Bank OJSC",
+      "designation": "Engineering Manager"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "",
+    "image": "karim.png",
+    "bio": "Expertise in mobile applications, distributed systems, and graph databases",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/kerimovscreations",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   },
   {
     "id": "108",
-    "name": "Full Name",
+    "name": "Kamil Alasgarov, FRM",
     "company": {
-      "name": "Company",
-      "designation": "Designation"
+      "name": "Simple Co LLC",
+      "designation": "Chief Data Scientist and CEO"
     },
-    "community_title": "Community Title",
-    "image": "",
-    "bio": "Bio Section",
+    "community_title": "",
+    "image": "kamil.png",
+    "bio": "",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/kamil-alasgarov-frm-8b461639/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "110",
+    "name": "Kadriye Macit",
+    "company": {
+      "name": "Alleo",
+      "designation": "Senior Flutter Developer"
+    },
+    "community_title": "Google Developer Expert for Flutter & Dart",
+    "image": "kadriye.png",
+    "bio": "I am a software engineer and currently working as a senior Flutter developer in a Dutch company (remote). I have been developing Flutter for about 4.5 years. I like to share what I've learned so we can gain more perspectives. To bring this to life, I have a YouTube channel (Hello World) and a Medium account full of the Flutter contents where I share what I have learned. It is entertaining to produce contents, participate in the events and organizing the events in my free time so I am an organizer in Flutter Turkey and Flutter Ankara. I love connecting with other people and learning together new technologies. Therefore I am a Flutterista in Flutteristas Community and a Women TechMakers Ambassador in Google.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/kadriyemacit/",
+      "twitter": "https://twitter.com/kadriyemct",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "111",
+    "name": "Khayal Sharifli",
+    "company": {
+      "name": "ABB Bank",
+      "designation": "Middle Android Developer"
+    },
+    "community_title": "",
+    "image": "khayal.png",
+    "bio": "This is a Khayal. He is Green Robot Developer 🟢",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/khayal-sharifli/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  },
+  {
+    "id": "112",
+    "name": "Rishiraj Acharya",
+    "company": {
+      "name": "IntelliTek.ai ",
+      "designation": "Machine Learning EngineerMachine Learning Engineer"
+    },
+    "community_title": "GDE in ML (Gen AI, Keras)",
+    "image": "rishi.png",
+    "bio": "An engineer who brings fresh ideas from all areas of ML, including Recommendation/Ranking/Prediction (RRP), Computer Vision (CV), Natural Language Processing (NLP), Speech/Audio, Deep Learning/Neural Networks, Reinforcement Learning, Distributed Machine Learning.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/rishirajacharya/",
+      "twitter": "",
+      "github": "",
+      "web": ""
     }
   }
 ]
