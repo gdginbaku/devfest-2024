@@ -58,7 +58,7 @@ useSeoMeta({
     " | " +
     mainData.communityName,
   ogDescription: mainData.eventInfo.description.short,
-  ogImage: `${mainData.seo.hostUrl}/thumbnail.jpg?auto=format&fit=crop&frame=1&h=512&w=1024`,
+  ogImage: `${mainData.seo.hostUrl}/thumbnail.png?auto=format&fit=crop&frame=1&h=512&w=1024`,
   ogUrl: mainData.seo.hostUrl,
   ogType: "website",
   twitterTitle:
@@ -67,7 +67,7 @@ useSeoMeta({
     " | " +
     mainData.communityName,
   twitterDescription: mainData.eventInfo.description.short,
-  twitterImage: `${mainData.seo.hostUrl}thumbnail.jpg?auto=format&fit=crop&frame=1&h=512&w=1024`,
+  twitterImage: `${mainData.seo.hostUrl}thumbnail.png?auto=format&fit=crop&frame=1&h=512&w=1024`,
   twitterCard: "summary_large_image",
 });
 </script>
