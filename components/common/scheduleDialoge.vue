@@ -6,7 +6,6 @@
         class="py-3 ma-1 fill-height"
         v-bind="activatorProps"
       >
-
         <p class="mb-0 h1-subheading google-font">{{ props.data.title }}</p>
 
         <span v-for="(itemp, indexp) in speakers" :key="indexp">
@@ -21,10 +20,25 @@
         <v-chip v-if="props.data.track" small class="mt-2">{{
           props.data.track
         }}</v-chip>
+
+        <v-chip
+          color="primary"
+          v-if="props.data.building"
+          small
+          class="mt-2 mx-2"
+          >Building {{ props.data.building }}</v-chip
+        >
+        <v-chip color="error" v-if="props.data.room" small class="mt-2 mx-2"
+          >Room {{ props.data.room }}</v-chip
+        >
       </div>
     </template>
 
-    <v-card class="pa-0 white" v-if="dialog" style="border-radius: 12px;border: 2px solid black" >
+    <v-card
+      class="pa-0 white"
+      v-if="dialog"
+      style="border-radius: 12px; border: 2px solid black"
+    >
       <iframe
         v-if="props.data.link"
         class="ma-0 pa-0"
@@ -59,12 +73,12 @@
               </p>
 
               <p
-                class="mt-5"
+                class="mt-5 mb-2"
                 style="font-size: 22px; color: black; font-weight: 500"
               >
-                Overview
+                Overview/Location
               </p>
-              <p style="font-size: 95%; color: black; opacity: 0.9">
+              <p style="font-size: 95%; color: black; opacity: 0.9" class="mb-5">
                 {{ props.data.description }}
               </p>
 
@@ -72,6 +86,21 @@
               <v-chip v-if="props.data.track" small class="mt-2">{{
                 props.data.track
               }}</v-chip>
+
+              <v-chip
+                color="primary"
+                v-if="props.data.building"
+                small
+                class="mt-2 mx-2"
+                >Building {{ props.data.building }}</v-chip
+              >
+              <v-chip
+                color="error"
+                v-if="props.data.room"
+                small
+                class="mt-2 mx-2"
+                >Room {{ props.data.room }}</v-chip
+              >
 
               <v-chip
                 v-if="props.data.slide"
