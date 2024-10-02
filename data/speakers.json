@@ -137,7 +137,7 @@
   },
   {
     "id": "110",
-    "name": "Kadriye Macit",
+    "name": "Kadriyye Macit",
     "company": {
       "name": "Alleo",
       "designation": "Senior Flutter Developer"
@@ -171,16 +171,16 @@
   },
   {
     "id": "112",
-    "name": "Rishiraj Acharya",
+    "name": "Semih KIŞLAR",
     "company": {
-      "name": "IntelliTek.ai ",
-      "designation": "Machine Learning EngineerMachine Learning Engineer"
+      "name": "Teknasyon",
+      "designation": "DevRel and Community Manager"
     },
-    "community_title": "GDE in ML (Gen AI, Keras)",
-    "image": "rishi.png",
-    "bio": "An engineer who brings fresh ideas from all areas of ML, including Recommendation/Ranking/Prediction (RRP), Computer Vision (CV), Natural Language Processing (NLP), Speech/Audio, Deep Learning/Neural Networks, Reinforcement Learning, Distributed Machine Learning.",
+    "community_title": "",
+    "image": "semih.jpg",
+    "bio": "DevRel and Community Manager",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/rishirajacharya/",
+      "linkedin": "",
       "twitter": "",
       "github": "",
       "web": ""
@@ -188,16 +188,16 @@
   },
   {
     "id": "113",
-    "name": "Waleed Arshad",
+    "name": "Fatih Kadir Akin",
     "company": {
-      "name": "talabat",
-      "designation": "Senior Software Engineer"
+      "name": "DevRel Manager",
+      "designation": "Developer Relation Manager"
     },
-    "community_title": "GDE Flutter",
-    "image": "waleed.png",
-    "bio": "Waleed Arshad is a core mobile technologist and a passionate cross-platform developer. He is the first person from Pakistan to become a Google Developer Expert in Flutter. After graduating from FAST Karachi, he has been working in the industry for more than 8 years. He is also leading Pakistan's Flutter community.",
+    "community_title": "",
+    "image": "fatih.jpg",
+    "bio": "Developer Relation Manager",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/waleed006/",
+      "linkedin": "",
       "twitter": "",
       "github": "",
       "web": ""
@@ -239,16 +239,16 @@
   },
   {
     "id": "116",
-    "name": "Khongorzul Munkhbat",
+    "name": "Murad Hasanov",
     "company": {
-      "name": "Deep Tech LLC",
-      "designation": ""
+      "name": "Digital Umbrella",
+      "designation": "Head of the System Administration Division"
     },
-    "community_title": "GDE for Machine Learning",
-    "image": "khongorzul.png",
-    "bio": "Khongorzul is an AI/ML engineer with a Masters in Computer Science. She has been researching and working in the field of AI/ML since 2018, with a focus on Music Information Retrieval. She has published several research papers on genre and mood classification and music composition using deep learning techniques during her master's studies. She also implemented the results of her research in the form of a music recommendation system using both content-based and collaborative filtering to a music application that provides streaming services in Mongolia. Khongorzul is also a music enthusiast and content creator on Instagram and Youtube. She enjoys playing the violin and singing along with her ukulele. 🌱 https://www.youtube.com/@centauream In June 2022, Khongorzul founded an AI-based tech company with her friends in the industry, with the goal of challenging herself as an engineer and finding solutions to problems faced by companies and society. In addition to her work, Khongorzul leads Women Techmakers Mongolia and Google Developer Groups Ulaanbaatar programs on a voluntary basis, both of which aim to support individuals who wish to learn and grow in the tech field. She is also passionate about inspiring and empowering girls and women in the tech industry.",
+    "community_title": "",
+    "image": "murad.jpg",
+    "bio": "Head of the System Administration Division",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/khongorzulmunkhbat/",
+      "linkedin": "https://www.linkedin.com/in/murad-hasanov003/",
       "twitter": "",
       "github": "",
       "web": ""

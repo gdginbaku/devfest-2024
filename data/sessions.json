@@ -32,21 +32,6 @@
   {
     "id": "1003",
     "slide": "",
-    "title": "Build AI Agents using LangChain",
-    "description": "Machine Learning and Artificial Intelligence (ML/AI) - Building D , room 107",
-    "track": "AI/ML",
-    "link": "",
-    "time": "10:30 AM to 11:30 AM",
-    "format": "Day 1",
-    "building":"D",
-    "room":"107",
-    "date": "Oct 12, 2024",
-    "timeDuration": "60",
-    "speakers": [117]
-  },
-  {
-    "id": "1004",
-    "slide": "",
     "title": "Better design with Functional Programming",
     "description": "Software Engineering (Back End and Front End)- Building B , room 203",
     "track": "SDE",
@@ -60,7 +45,7 @@
     "speakers": [106]
   },
   {
-    "id": "1005",
+    "id": "1004",
     "slide": "",
     "title": "Building a high performant mobile team",
     "description": "Mobile Dev/Workshop - Building D , room 207",
@@ -73,6 +58,21 @@
     "date": "Oct 12, 2024",
     "timeDuration": "60",
     "speakers": [104]
+  },
+  {
+    "id": "1005",
+    "slide": "",
+    "title": "Build AI Agents using LangChain",
+    "description": "Machine Learning and Artificial Intelligence (ML/AI) - Building D , room 107",
+    "track": "AI/ML",
+    "link": "",
+    "time": "10:30 AM to 11:30 AM",
+    "format": "Day 1",
+    "building":"D",
+    "room":"107",
+    "date": "Oct 12, 2024",
+    "timeDuration": "60",
+    "speakers": [117]
   },
   {
     "id": "1006",
@@ -227,7 +227,7 @@
   {
     "id": "1016",
     "slide": "",
-    "title": "Khalid Nazarov",
+    "title": "AI-Powered Detection of Construction and Demolition Works Using Satellite Imagery",
     "description": "Machine Learning and Artificial Intelligence (ML/AI) - Building D , room 107",
     "track": "SDE",
     "link": "",
@@ -272,7 +272,7 @@
   {
     "id": "1019",
     "slide": "",
-    "title": "Architecture for Beginners [deconstructing the black box]",
+    "title": "Kubernetes Event-driven Autoscaling",
     "description": "Mobile Dev/Workshop - Building D , room 207",
     "track": "SDE",
     "link": "",
@@ -282,7 +282,7 @@
     "room":"207",
     "date": "Oct 12, 2024",
     "timeDuration": "60",
-    "speakers": [113]
+    "speakers": [116]
   },
   {
     "id": "1020",
@@ -302,16 +302,46 @@
   {
     "id": "1021",
     "slide": "",
-    "title": "Closing and Devfest 2024 Baku Badge Collection.",
-    "description": "Closing and Devfest 2024 Baku Badge Collection.",
+    "title": "Unlock the Power of IDX in Gemini Projects",
+    "description": "Mobile Dev/Workshop - Building D , room 207",
     "track": "",
     "link": "",
     "time": "4:00 PM to 5:00 PM",
     "format": "Day 1",
+    "building":"D",
+    "room":"207",
+    "date": "Oct 12, 2024",
+    "timeDuration": "60",
+    "speakers": [112]
+  },
+  {
+    "id": "1022",
+    "slide": "",
+    "title": "Threat or Opportunity? — Enhancing Software Development Efficiency with AI",
+    "description": "Software Engineering (Back End and Front End)- Building B , room 203 16:30",
+    "track": "SDE",
+    "link": "",
+    "time": "4:30 PM to 5:30 PM",
+    "format": "Day 1",
+    "building":"B",
+    "room":"203",
+    "date": "Oct 12, 2024",
+    "timeDuration": "60",
+    "speakers": [113]
+  },
+  {
+    "id": "1023",
+    "slide": "",
+    "title": "Closing and Devfest 2024 Baku Badge Collection.",
+    "description": "Closing and Devfest 2024 Baku Badge Collection.",
+    "track": "",
+    "link": "",
+    "time": "5:00 PM to 5:30 PM",
+    "format": "Day 1",
     "building":"",
     "room":"",
     "date": "Oct 12, 2024",
-    "timeDuration": "60",
+    "timeDuration": "30",
     "speakers": []
   }
 ]
